@@ -1,15 +1,4 @@
----
-title: "Statistical Tests and Assumptions"
-author: "siju.swamy@saintgits.org"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
-output: slidy_presentation
-footer: "Copyright (c) 2018, saintgits"
-css: custom.css
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = T)
-```
 
 ## 
 
